@@ -6,9 +6,12 @@ This repo includes the problems and tests for the first half week two of the com
 
 1. Run `npm i` to install dependancies
 2. Run `npm run test` to run all jest test suites or
-3. Run `npm run test <test directory>` to run a specific test suite i.e: `npm run test iterativeSorting` to watch only the tests inside the iterativeSorting directory
+3. Run `npm run test <test directory>` to run a specific test suite ie: `npm run test iterativeSorting` to watch only the tests inside the iterativeSorting directory
 
-- Also you can run `npm run test` with the `--verbose` option to see more test output
+### Additional Run Options
+
+- You can run `npm run test` with the `--verbose` option to see more test output
+- Run `npx run <path_to_JS_file>` to run individual JavaScript files, ie: `npx run iterativeSorting/index.js` to run the index file in the iterativeSorting directory
 
 ---
 
