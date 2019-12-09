@@ -1,6 +1,6 @@
-# JS-Algorithms
+# JS-Sorting
 
-## This repo includes the problems and tests for week two of the computer science unit, but this time in JS.
+This repo includes the problems and tests for the first half week two of the computer science unit, but this time in JS.
 
 ## Steps to Run:
 
