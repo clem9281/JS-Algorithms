@@ -6,7 +6,7 @@
 
 1. Run `npm i` to install dependancies
 2. Run `npm run test` to run all jest test suites or
-3. Run `npm run test <test directory>` to run a specific test suite
+3. Run `npm run test <test directory>` to run a specific test suite i.e: `npm run test iterativeSorting` to watch only the tests inside the iterativeSorting directory
 
 - Also you can run `npm run test` with the `--verbose` option to see more test output
 
